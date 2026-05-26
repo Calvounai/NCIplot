@@ -1,0 +1,8 @@
+2
+ant_T_1.xyz
+ant_T_2.xyz
+intermolecular
+range 3
+-0.07 -0.01
+-0.01 0.01
+0.01 0.07
